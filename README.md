@@ -2,4 +2,4 @@
  <br>
 This is my first repository.
 <br>
-I am enjoying learning github.
+I am enjoying learning git.
